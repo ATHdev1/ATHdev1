@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-# CHUNG-ANG University AI department
-# React, python, javascript, SaaS, Trading
+### CHUNG-ANG University AI department
+### React, python, javascript, SaaS, Trading
 
 
 <!--
