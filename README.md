@@ -1,7 +1,17 @@
-## Hi there 👋
+# Hi, I'm ATHdev1 👋
 
-### CHUNG-ANG University AI department
-### React, python, javascript, SaaS, Trading
+🚀 Passionate about AI, Trading, and Creative Coding  
+🧠 Studying Artificial Intelligence @ Chung-Ang University  
+💼 Building projects with Java, Python, React  
+
+## 🔧 Tech Stack
+- **Languages**: Python, Java, JavaScript  
+- **Frameworks**: React, Spring, Node.js  
+- **Tools**: Git, Docker, VS Code  
+
+## 📈 Side Projects
+- 🚦 Crypto Auto Trader - Real-time Binance bot with Python  
+- 🎙 SoundCloud DJ Tool - Upload & Manage mixsets via webapp
 
 
 <!--
