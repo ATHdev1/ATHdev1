@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# CHUNG-ANG University AI department
+# React, python, javascript, SaaS, Trading
+
+
 <!--
 **ATHdev1/ATHdev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
